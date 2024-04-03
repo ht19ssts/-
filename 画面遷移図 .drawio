@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T18:32:19.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="O5bJq2d7N0pqW-OlDOjC" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:12:32.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fp2Lqo9eQoEx8Rx-75s6" version="24.2.1" type="github">
   <diagram id="zXYdlJMxpkLPpKTD0zcQ" name="ページ1">
-    <mxGraphModel dx="1500" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KdNdumpBAWfkXNgbXocE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gSIg1-qY6fK0YbSR8IV2-4" target="hMFui25325vpyBuBLBgp-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gSIg1-qY6fK0YbSR8IV2-4" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 12px; text-align: justify;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;ホーム画面&lt;/font&gt;&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="160" height="200" as="geometry" />
         </mxCell>
@@ -64,18 +67,13 @@
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ユーザー名入力欄&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="8WLKLdAXPGA9mwzkF5FM-50" vertex="1">
           <mxGeometry x="15" y="50" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WLKLdAXPGA9mwzkF5FM-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480.0000000000002" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-57" value="メッセージ確認" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="415" y="420" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-15" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="320" y="1120" width="160" height="200" as="geometry" />
+          <mxGeometry x="320" y="1079" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-3" value="" style="group" vertex="1" connectable="0" parent="hMFui25325vpyBuBLBgp-15">
+        <mxCell id="qUEitJOZd1o9Dxp1bKS5-3" value="" style="group" parent="hMFui25325vpyBuBLBgp-15" vertex="1" connectable="0">
           <mxGeometry x="-40" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-10" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 12px; text-align: justify; background-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;登録情報変更&lt;br&gt;画面&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="qUEitJOZd1o9Dxp1bKS5-3" vertex="1">
@@ -85,13 +83,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-99" value="変更ボタン" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="qUEitJOZd1o9Dxp1bKS5-3" vertex="1">
-          <mxGeometry x="15" y="85" width="130" height="30" as="geometry" />
+          <mxGeometry x="15" y="101" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-17" value="フレンド削除ボタン" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="qUEitJOZd1o9Dxp1bKS5-3" vertex="1">
-          <mxGeometry x="15" y="140" width="130" height="30" as="geometry" />
+          <mxGeometry x="15" y="147" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-34" value="ニックネーム入力欄" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="qUEitJOZd1o9Dxp1bKS5-3">
+          <mxGeometry x="15" y="61" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-59" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="780" y="827" width="160" height="200" as="geometry" />
+          <mxGeometry x="730" y="827" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-35" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;b&gt;通知者一覧画面&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="hMFui25325vpyBuBLBgp-59" vertex="1">
           <mxGeometry x="-15" y="10" width="160" height="200" as="geometry" />
@@ -105,29 +106,6 @@
         <mxCell id="hMFui25325vpyBuBLBgp-48" value="通知対象者一覧" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="hMFui25325vpyBuBLBgp-59" vertex="1">
           <mxGeometry y="61" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-87" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="400" y="563" width="160" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-82" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 19px; text-align: justify;&quot;&gt;フレンド管理画面&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;container=0;" parent="hMFui25325vpyBuBLBgp-87" vertex="1">
-          <mxGeometry width="160" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-83" value="新着メッセージの確認" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;container=0;" parent="hMFui25325vpyBuBLBgp-87" vertex="1">
-          <mxGeometry x="15" y="45" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-84" value="フレンドリスト" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;container=0;" parent="hMFui25325vpyBuBLBgp-87" vertex="1">
-          <mxGeometry x="15" y="85" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hMFui25325vpyBuBLBgp-87" source="hMFui25325vpyBuBLBgp-85">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="277" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-85" value="フレンド登録" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;container=0;" parent="hMFui25325vpyBuBLBgp-87" vertex="1">
-          <mxGeometry x="15" y="121" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-86" value="通知者一覧" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;container=0;" parent="hMFui25325vpyBuBLBgp-87" vertex="1">
-          <mxGeometry x="15" y="160" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-88" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="280" y="840" width="160" height="200" as="geometry" />
         </mxCell>
@@ -137,11 +115,6 @@
         <mxCell id="hMFui25325vpyBuBLBgp-77" value="フレンド一覧表示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="hMFui25325vpyBuBLBgp-88" vertex="1">
           <mxGeometry x="15" y="50" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hMFui25325vpyBuBLBgp-88" source="hMFui25325vpyBuBLBgp-80">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="135" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-80" value="チャット移行ボタン" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="hMFui25325vpyBuBLBgp-88" vertex="1">
           <mxGeometry x="15" y="120" width="130" height="30" as="geometry" />
         </mxCell>
@@ -150,25 +123,6 @@
         </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-105" value="フレンド選択" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="hMFui25325vpyBuBLBgp-88" vertex="1">
           <mxGeometry x="15" y="85" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hMFui25325vpyBuBLBgp-83" target="8WLKLdAXPGA9mwzkF5FM-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hMFui25325vpyBuBLBgp-86" target="hMFui25325vpyBuBLBgp-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="845" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hMFui25325vpyBuBLBgp-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hMFui25325vpyBuBLBgp-81" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="1090" />
-              <mxPoint x="360" y="1090" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="hMFui25325vpyBuBLBgp-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.018;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8WLKLdAXPGA9mwzkF5FM-7" target="gSIg1-qY6fK0YbSR8IV2-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -185,8 +139,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="840" width="160" height="239" as="geometry" />
+        <mxCell id="qUEitJOZd1o9Dxp1bKS5-2" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="80" y="840" width="160" height="239" as="geometry" />
         </mxCell>
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;b&gt;チャット画面&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="qUEitJOZd1o9Dxp1bKS5-2" vertex="1">
           <mxGeometry width="160" height="239" as="geometry" />
@@ -206,7 +160,7 @@
         <mxCell id="hMFui25325vpyBuBLBgp-133" value="送受信日時表示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="qUEitJOZd1o9Dxp1bKS5-2" vertex="1">
           <mxGeometry x="15" y="130" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="qUEitJOZd1o9Dxp1bKS5-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="520" y="840" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-59" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;フレンド登録画面&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;container=0;" parent="qUEitJOZd1o9Dxp1bKS5-4" vertex="1">
@@ -224,12 +178,72 @@
         <mxCell id="8WLKLdAXPGA9mwzkF5FM-62" value="登録ボタン" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;container=0;" parent="qUEitJOZd1o9Dxp1bKS5-4" vertex="1">
           <mxGeometry x="15" y="160" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qUEitJOZd1o9Dxp1bKS5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMFui25325vpyBuBLBgp-84" target="hMFui25325vpyBuBLBgp-64">
+        <mxCell id="hMFui25325vpyBuBLBgp-82" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px;&quot;&gt;&lt;b&gt;ヘッダー&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;container=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="520" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ホーム&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;container=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="553" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdNdumpBAWfkXNgbXocE-18">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="663" />
-            </Array>
+            <mxPoint x="360" y="840.0000000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;フレンドリスト&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="630" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdNdumpBAWfkXNgbXocE-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="604.7142857142858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;チャットリスト&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="590" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdNdumpBAWfkXNgbXocE-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="840.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-20" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;フレンド登録&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="670" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KdNdumpBAWfkXNgbXocE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800.0000000000002" y="840.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-21" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;通知者一覧&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="714" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-16" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ログアウト&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="560" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-1" value="&lt;b&gt;チャットリスト画面&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="KdNdumpBAWfkXNgbXocE-23">
+          <mxGeometry width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KdNdumpBAWfkXNgbXocE-23" source="KdNdumpBAWfkXNgbXocE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="280.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;個別チャット遷移&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="KdNdumpBAWfkXNgbXocE-23">
+          <mxGeometry x="15" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;チャットリスト表示&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="KdNdumpBAWfkXNgbXocE-23">
+          <mxGeometry x="15" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;新着チャット内容表示&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="KdNdumpBAWfkXNgbXocE-23">
+          <mxGeometry x="15" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hMFui25325vpyBuBLBgp-80" target="8WLKLdAXPGA9mwzkF5FM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdNdumpBAWfkXNgbXocE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hMFui25325vpyBuBLBgp-81" target="8WLKLdAXPGA9mwzkF5FM-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
